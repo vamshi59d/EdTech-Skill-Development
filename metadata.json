@@ -1,0 +1,7 @@
+{
+  "name": "Academia AI: The Ultimate Student Hub",
+  "description": "A comprehensive student dashboard featuring an AI-powered study assistant, flashcard generator, task manager, and smart schedule tracker to optimize academic performance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
